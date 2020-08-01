@@ -31,4 +31,10 @@ figure figcaption {
   font-size: 10px;
 }
 
+#details {
+  display: block;
+}
 
+#details div {
+  float: left;
+}
